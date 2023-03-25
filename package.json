@@ -1,0 +1,25 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "hello container docker",
+  "main": "app.ts",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loiphamvn/docker-container.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "loiptx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loiphamvn/docker-container/issues"
+  },
+  "homepage": "https://github.com/loiphamvn/docker-container#readme",
+  "publishConfig": {
+    "loiptx:registry": "https://npm.pkg.github.com"
+  }
+}
